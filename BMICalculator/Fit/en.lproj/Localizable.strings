@@ -1,0 +1,9 @@
+/*
+     <samplecode>
+        <abstract>
+            Strings used across the application via the NSLocalizedString API.
+        </abstract>
+     </samplecode>
+ */
+
+"%@ years" = "%@ years";
